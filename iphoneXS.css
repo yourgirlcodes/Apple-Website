@@ -1,0 +1,38 @@
+
+.stripe-one {
+    background-color:#fafafa;
+    position:relative;
+    border-top-width:6px;
+    border-left-width:0;
+    border-right-width:0;
+    top:150px;
+}
+
+.iphoneXS{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    top:80px;
+    height: 80px;
+}
+
+.XStext{
+    font-size: 24px;
+    font-weight: 300;
+    position: relative;
+    text-align:center;
+    top: 40px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.XS-picture.stripe{
+    width:100%;
+    height:100%; 
+    position: relative;
+    text-align: center;
+    top: 40px;
+    background-color:#fafafa;
+}
+
+
+
